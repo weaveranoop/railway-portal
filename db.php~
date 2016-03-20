@@ -1,0 +1,4 @@
+<?php
+mysql_connect("localhost", "root", "831004");
+mysql_select_db("dp");
+?>
